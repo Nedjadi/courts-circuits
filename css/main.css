@@ -1,0 +1,28 @@
+.trajet{
+  text-align: left;
+  margin-left: 40px;
+}
+
+.quand{
+  text-align: left;
+  margin-left: 40px;
+}
+
+.description{
+  text-align: left;
+  margin-left: 40px;
+}
+
+.merde {
+  background: red;
+}
+
+
+.up{
+  text-align: center;
+  margin-left: 10000px;
+}
+
+.val{
+  text-align: center;
+}
